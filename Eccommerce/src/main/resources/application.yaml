@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Eccommerce
+
+api.security.secret: ${API_SECURITY_SECRET}

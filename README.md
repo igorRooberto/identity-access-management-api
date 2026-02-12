@@ -1,16 +1,3 @@
-Boa 🔥 isso sobe MUITO o nível do projeto.
-
-Vou atualizar o README incluindo:
-
-✅ Testes Unitários
-
-✅ Testes de Integração
-
-✅ Testes de Gateways (infraestrutura)
-
-✅ Testes da Camada Web (controllers)
-
-Segue a versão final completa em Markdown:
 
 # 🔐 Identity Access Management API
 
